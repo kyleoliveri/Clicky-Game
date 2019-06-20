@@ -16,7 +16,7 @@
     {
       "id": 3,
       "name": "Ken Kaneki",
-      "image": "https://imgix.ranker.com/user_node_img/50082/1001620426/original/never-trust-anyone-too-much-photo-u2?w=650&q=50&fm=pjpg&fit=crop&crop=faces",
+      "image": "https://github.com/kyleoliveri/Clicky-Game/blob/master/src/assets/images/Kaneki.jpg?raw=true",
       "occupation": "Ghoul",
       "location": "Tokyo Ghoul"
     },
@@ -51,14 +51,14 @@
     {
       "id": 8,
       "name": "Asuna Yuuki",
-      "image": "https://uploads.disquscdn.com/images/a1d428a8857dcfe84b49669ece4c8d28513809829fe3cef1b55939d2fef5b4f8.png",
+      "image": "https://github.com/kyleoliveri/Clicky-Game/blob/master/src/assets/images/Asuna.jpg?raw=true",
       "occupation": "Gamer",
       "location": "Sword Art Online"
     },
     {
       "id": 9,
       "name": "Asta",
-      "image": "https://www.ubackground.com/_ph/4/982567768.jpg",
+      "image": "https://github.com/kyleoliveri/Clicky-Game/blob/master/src/assets/images/Asta.jpg?raw=true",
       "occupation": "Magic Knight",
       "location": "Black Clover"
     },
@@ -72,7 +72,7 @@
     {
       "id": 11,
       "name": "Eren Yeager",
-      "image": "https://pbs.twimg.com/profile_images/1035289507820699648/Psc8Brpt_400x400.jpg",
+      "image": "https://github.com/kyleoliveri/Clicky-Game/blob/master/src/assets/images/Eren.jpg?raw=true",
       "occupation": "Scout",
       "location": "Attack on Titan"
     },
