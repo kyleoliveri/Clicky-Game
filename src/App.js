@@ -59,7 +59,7 @@ class App extends Component {
     render() {
       return (
   
-        <Wrapper>
+        <div>
           <Navbar currentScore={this.state.currentScore} topScore={this.state.topScore} />
           {this.randomImage().map(img => (
             <CharacterCard
@@ -69,7 +69,7 @@ class App extends Component {
             />
           ))}
         <Footer />
-        </Wrapper>
+        </div>
       );
     }
   }
