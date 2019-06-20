@@ -1,0 +1,86 @@
+[
+    {
+      "id": 1,
+      "name": "Naruto Uzumaki",
+      "image": "http://i.imgur.com/MHqs99L.png",
+      "occupation": "Hokage",
+      "location": "Naruto Shippuden"
+    },
+    {
+      "id": 2,
+      "name": "Sasuke Uchiha",
+      "image": "https://i.pinimg.com/1200x/36/e2/b3/36e2b3c2b7a63fa5b189809173f06fb9.jpg",
+      "occupation": "Shinobi",
+      "location": "Naruto Shippuden"
+    },
+    {
+      "id": 3,
+      "name": "Ken Kaneki",
+      "image": "https://imgix.ranker.com/user_node_img/50082/1001620426/original/never-trust-anyone-too-much-photo-u2?w=650&q=50&fm=pjpg&fit=crop&crop=faces",
+      "occupation": "Ghoul",
+      "location": "Tokyo Ghoul"
+    },
+    {
+      "id": 4,
+      "name": "Touka Kirishima",
+      "image": "https://vignette.wikia.nocookie.net/tokyoghoul/images/4/4a/Touka%27s_appearance_in_the_re_anime.jpg/revision/latest/scale-to-width-down/300?cb=20180520141916",
+      "occupation": "Ghoul",
+      "location": "Tokyo Ghoul"
+    },
+    {
+      "id": 5,
+      "name": "Light Yagami",
+      "image": "https://cdn.animenewsnetwork.com/thumbnails/max1000x1500/cms/feature/99957/light-yagami.jpg",
+      "occupation": "Student",
+      "location": "Death Note"
+    },
+    {
+      "id": 6,
+      "name": "Ryuk",
+      "image": "https://pm1.narvii.com/6508/a4f804b0a7071e444d8b654708925a02af4c6707_hq.jpg",
+      "occupation": "Shinigami",
+      "location": "Death Note"
+    },
+    {
+      "id": 7,
+      "name": "Kazuto Kirigaya",
+      "image": "https://fsmedia.imgix.net/e2/4c/2c/21/1d4b/4742/9d76/b8f63af9a85a/kirito-is-the-protagonist-in-a-show-based-on-a-light-novel-series-in-which-people-get-trapped-in-a-v.png?rect=0%2C0%2C1280%2C640&auto=format%2Ccompress&dpr=2&w=650",
+      "occupation": "Beta Tester",
+      "location": "Sword Art Online"
+    },
+    {
+      "id": 8,
+      "name": "Asuna Yuuki",
+      "image": "https://uploads.disquscdn.com/images/a1d428a8857dcfe84b49669ece4c8d28513809829fe3cef1b55939d2fef5b4f8.png",
+      "occupation": "Gamer",
+      "location": "Sword Art Online"
+    },
+    {
+      "id": 9,
+      "name": "Asta",
+      "image": "https://www.ubackground.com/_ph/4/982567768.jpg",
+      "occupation": "Magic Knight",
+      "location": "Black Clover"
+    },
+    {
+      "id": 10,
+      "name": "Yuno",
+      "image": "https://i.pinimg.com/originals/34/c5/32/34c5325e56500a894fbe7f98cf38bf74.jpg",
+      "occupation": "Magic Knight",
+      "location": "Black Clover"
+    },
+    {
+      "id": 11,
+      "name": "Eren Yeager",
+      "image": "https://pbs.twimg.com/profile_images/1035289507820699648/Psc8Brpt_400x400.jpg",
+      "occupation": "Scout",
+      "location": "Attack on Titan"
+    },
+    {
+      "id": 12,
+      "name": "Mikasa Ackerman",
+      "image": "https://addons-media.operacdn.com/media/CACHE/images/themes/85/119285/1.0-rev1/images/8c0a9ad6-55c8-4dbe-81e8-a9ab361b313f/8af9f508d52d42d3a9e510fdbb66046a.jpg",
+      "occupation": "Scout",
+      "location": "Attack on Titan"
+    }
+  ]

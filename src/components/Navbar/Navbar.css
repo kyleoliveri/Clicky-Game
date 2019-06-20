@@ -1,3 +1,38 @@
-.no-shadows {
-    box-shadow: none!important;
-}
+* {
+    box-sizing: border-box;
+  }
+  
+  .title {
+    color: rgb(255, 255, 255);
+  }
+  
+  h1 {
+    font-family: 'Bangers', cursive;
+    font-size: 70px !important;
+    line-height: 75px;
+  }
+  
+  h4 {
+    font-family: "Droid Sans", Helvetica, Arial, sans-serif !important;
+    font-size: 18px;
+    line-height: 25px;
+  }
+  
+  .scores {
+    /* height: 50px; */
+    /* font-weight: 800; */
+    /* font-size: 80px; */
+    /* width: 100%; */
+    font-family: "Arvo", Georgia, Times, serif;
+  }
+  
+  #score {
+    margin-top: 10px;
+    font-family: "Arvo", Georgia, Times, serif;
+    font-size: 30px;
+  }
+  
+  #hscore {
+    font-family: "Arvo", Georgia, Times, serif;
+    font-size: 30px;
+  }
